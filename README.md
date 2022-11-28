@@ -10,7 +10,7 @@ This assignment was a great opportunity to familiarize ourselves with the basics
   <li>I learned how to use headers with space beneath them!</li><br><br>
   <li><strong>I learned how to make text bold!</strong></li>
   <li><em>I learned how to make text italicized!</em></li>
-  <li><p>I learned how to create a paragraph!</p></li>
+  <li>I learned how to create a paragraph!</li>
   <li>I learned how to add images!</li>
   <li>I learned how to add links!</li>
   <li>I learned how to change the background color!</li>
