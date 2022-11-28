@@ -6,8 +6,8 @@ This assignment was a great opportunity to familiarize ourselves with the basics
 ### Learning Opportunities:
 <ul>
   <li>I learned how to create a list with bullet points!</li>
-  <li><h1>I learned how to use headers!</h1></li>
-  <li><h1>I learned how to use headers with space beneath them!</h1></li><br><br>
+  <li>I learned how to use headers!</li>
+  <li>I learned how to use headers with space beneath them!</li><br><br>
   <li><strong>I learned how to make text bold!</strong></li>
   <li><em>I learned how to make text italicized!</em></li>
   <li><p>I learned how to create a paragraph!</p></li>
