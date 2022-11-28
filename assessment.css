@@ -1,0 +1,80 @@
+h2 {
+  color: blue;
+  font-family: sans-serif;
+}
+
+h3 {
+  color: blue;
+  font-family: sans-serif;
+}
+
+h4 {
+  color: blue;
+  font-family: sans-serif;
+}
+
+h5 {
+  color: blue;
+  font-family: sans-serif;
+}
+
+#scoreBoard{
+  font-weight: bold;
+  color: red;
+}
+
+table, th, td {
+  border: 1px solid;
+  text-align: center;
+}
+
+ul  {
+  list-style-type: square;
+}
+
+ol:first-child {
+    list-style-image: url('https://upload.wikimedia.org/wikipedia/en/4/44/Denver_Broncos_logo.svg');
+}
+
+ol:last-child {
+  list-style-image:  url('https://upload.wikimedia.org/wikipedia/commons/5/5c/Chicago_Bears_logo.svg');
+}
+
+
+
+a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+blockquote {
+  background-color: darkblue;
+  color: white;
+}
+
+/* Cannot figure out #7 to save my life */
+
+/* li[id='checkbox-grid'] {
+  list-style: none;
+} */
+
+/* ul > li > label > input:nth-child(1) {
+  list-style:
+} */
+
+
+/* #checkbox-grid:first-child {
+  list-style: none; */
+}
+li:nth-child(1) {
+  list-style: none;
+}
+li:nth-child(2){
+  list-style: none;
+}
+li:nth-child(3){
+  list-style: none;
+}
+li:nth-child(4){
+  list-style: none;
+}
